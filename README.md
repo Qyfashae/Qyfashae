@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on progs
 - 📫 How to reach me Qyfashae@keemail.me
-- 🌐  https://imarketing.se/
 
