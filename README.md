@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on progs
 - 📫 How to reach me Qyfashae@keemail.me
-- 👻 Bug-bounty projects F.Torderlius@bugcrowd.com
+- 👻 Bug-bounty projects Qyfashae@bugcrowdninja.com
 
