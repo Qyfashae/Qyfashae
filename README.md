@@ -5,6 +5,6 @@
 - 💜 Feeling %PURPLE%
 - 🐍 Python BT/RT Developer
 - 🐉 Linux_Ent 🥷🏽
-- 📫 How to reach me Qyfashae@keemail.me
+- 📫 How to reach me Qyfashae@keemail.me | Felix.Tordelius@protonmail.com
 - 👻 Bug-bounty projects Qyfashae@bugcrowdninja.com
 
